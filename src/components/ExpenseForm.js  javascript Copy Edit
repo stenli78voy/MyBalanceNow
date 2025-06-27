@@ -1,0 +1,8 @@
+import React from 'react';
+import './ExpenseForm.css';
+
+function ExpenseForm() {
+  return <form className="expense-form">Expense Form</form>;
+}
+
+export default ExpenseForm;
