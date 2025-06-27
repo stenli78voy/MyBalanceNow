@@ -1,0 +1,8 @@
+import React from 'react';
+import './ExpenseList.css';
+
+function ExpenseList() {
+  return <ul className="expense-list">Expense List</ul>;
+}
+
+export default ExpenseList;
