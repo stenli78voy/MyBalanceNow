@@ -21,8 +21,8 @@
 ## Author
 
 **Name:** Your A/C Name  
-**Email:** your@email.com  
-**Website:** 
+**Email:** stenli78voy@outlook.com
+**Website:**  [MyBalanceNow](https://www.mybalancenow.it.com)
 **Bio:** A passionate full-stack developer with over 7 years of experience in building scalable web applications. Master in React and JavaScript, always eager to help others and contribute to open-source communities.
 
 ## Getting Started
